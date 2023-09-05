@@ -17,8 +17,11 @@ There are three key repositories of this product:
 2. [Server for backend and website (NextJS)](https://github.com/Alokit-Innovations/team-monitor-website)
 3. [Browser Extension](https://github.com/Alokit-Innovations/chrome-extension)
 
-![vibinex-architecture](https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/4c8fd276-57d2-4b8c-906f-0974ab84ab64">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d.png">
+  <img alt="Vibinex core repo" src="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d.png">
+</picture>
 
 ### Privacy-first
 We take privacy extremely seriously. The purpose of the Rust service is to keep the user's data (code, events, config, server logs, etc.) in the user's infrastructure.
