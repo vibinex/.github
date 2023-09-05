@@ -28,8 +28,9 @@ We take privacy extremely seriously. The purpose of the Rust service is to keep 
 Only non-reproducible encrypted/hashed metadata is shared with Vibinex's servers. 
 
 This project follows a dual-backend architecture to ensure privacy while serving data-enabled features. Here is the architectural diagram (over-simplified for high-level understanding):
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/ec5678f8-0d4d-4cf3-951c-0fcdccdc1982">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/06c023a2-be6e-47a6-9e36-d28f90ac07b7">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
   <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
 </picture>
