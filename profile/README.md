@@ -35,6 +35,13 @@ This project follows a dual-backend architecture to ensure privacy while serving
   <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/d5a97883-64ef-498f-b97a-318b6675ac87">
 </picture>
 
+### Constraints
+1. Sensitive and private information can only be accessed by the user-side service and cannot be shared with any other part of application
+2. Only metadata or other processed output from the data (which cannot be used to reproduce any sensitive information) can be shared with the central server.
+3. Any data stored in the central server must be hashed (preferably) or encrypted (with the private key on user-side).
+4. Any changes in the schema of the data shared outside of the user-side service must go through a user-consent process.
+5. The user-side service must not be verey resource intensive (exact thresholds TBD).
+
 ## Alokit Mentorship Platform
 This website ([alokit.in](https://alokit.in)) facilitates running temporary employment engagements (like internships, contract work, consultancy etc.). It acts as a trusted third party for 
 - Project management (with JIRA-like epics, stories and tasks)
