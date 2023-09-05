@@ -65,4 +65,4 @@ This project is hosted on Firebase.
 2. Backend is a NodeJS (ExpressJS) server hosted on Firebase Functions
 3. Frontend is written in ReactJS and statically hosted using Firebase Hosting
 
-All the code is in a [single GitHub Repository](https://github.com/Alokit-Innovations/mentorship-platform), which is a single Firebase project organized in two folders (`functions` and `view` for the backend and the frontend respectively).
+All the code is in a [single GitHub Repository](https://github.com/Alokit-Innovations/mentorship-website), which is a single Firebase project organized in two folders (`functions` and `view` for the backend and the frontend respectively).
