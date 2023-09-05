@@ -1,8 +1,17 @@
 # Alokit Innovations
-Alokit Innovations Private Limited is an Information Technology company based in India. 
+Alokit Innovations Private Limited is an Information Technology company based in India.
+The goal of this company is to maximize the effeciency, longetivity and impact of software teams.
+The founders of Alokit Innovations firmly believe that the only way to build long-lasting entities is to make them self-sufficient. So Alokit Innovations is a for-profit firm.
+
+### FOSS Pledge
+As an organiation, we pledge to:
+1. Openly credit and talk about the FOSS that we use in our organization and acknowledge the value we derive from them wherever appropriate.
+2. Encourage our developers and technical staff to create and contribute to FOSS and participate in FOSS communities and activities.
+3. Try and provide financial and other support to the FOSS projects that are valuable to our organization.
+4. Publish notes on our aforementioned FOSS related activities at least annually.
 
 ## Vibinex Code Review
-This is our flagship product ([vibinex.com](https://vibinex.com)). It modified the UX for code-hosting websites like GitHub and Bitbucket to make it easier to perform high-quality code reviews.
+This is our flagship product ([vibinex.com](https://vibinex.com)). It modifies the UX for code-hosting websites like GitHub and Bitbucket to make it easier to perform high-quality code reviews.
 There are three key repositories of this product:
 1. [Client-side repository processing service (Rust)](https://github.com/Alokit-Innovations/dev-profiler)
 2. [Server for backend and website (NextJS)](https://github.com/Alokit-Innovations/team-monitor-website)
