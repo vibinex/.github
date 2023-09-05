@@ -42,6 +42,18 @@ This project follows a dual-backend architecture to ensure privacy while serving
 4. Any changes in the schema of the data shared outside of the user-side service must go through a user-consent process.
 5. The user-side service must not be verey resource intensive (exact thresholds TBD).
 
+### Contribute
+This is an open source project and we encourage you to contribute to its improvement.
+Here are the different ways you can contribute:
+1. (Easy) Use Vibinex in your project/repository and share your feedback. You can find the instructions to get started on [the website](https://vibinex.com).
+You can share your feedback and comments in the discussion forum or in our Slack community.
+2. (Easy) Star our repositories.
+3. (Medium) Contribute automated tests
+4. (Medium) Contribute documentation (for new repository setup, local environment setup, using various features of the product or code documentation).
+5. (Hard) Suggest new features that fit the product philosophy
+6. (Hard) Solve open issues and create a pull request.
+
+
 ## Alokit Mentorship Platform
 This website ([alokit.in](https://alokit.in)) facilitates running temporary employment engagements (like internships, contract work, consultancy etc.). It acts as a trusted third party for 
 - Project management (with JIRA-like epics, stories and tasks)
