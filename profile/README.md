@@ -18,9 +18,9 @@ There are three key repositories of this product:
 3. [Browser Extension](https://github.com/Alokit-Innovations/chrome-extension)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/4c8fd276-57d2-4b8c-906f-0974ab84ab64">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d">
-  <img alt="Vibinex core repo" src="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/def425db-07f1-4a6b-90ce-9c3cf0bb4aae">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/358856bc-03b9-4c2e-aa55-a88d9ce4130b">
+  <img alt="Vibinex core repo" src="https://github.com/Alokit-Innovations/.github/assets/7858932/358856bc-03b9-4c2e-aa55-a88d9ce4130b">
 </picture>
 
 ### Privacy-first
@@ -30,9 +30,9 @@ Only non-reproducible encrypted/hashed metadata is shared with Vibinex's servers
 This project follows a dual-backend architecture to ensure privacy while serving data-enabled features. Here is the architectural diagram (over-simplified for high-level understanding):
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/06c023a2-be6e-47a6-9e36-d28f90ac07b7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
-  <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/493b3052-b462-4bb8-a9cd-ffa8e1018960">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/d5a97883-64ef-498f-b97a-318b6675ac87">
+  <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/d5a97883-64ef-498f-b97a-318b6675ac87">
 </picture>
 
 ## Alokit Mentorship Platform
