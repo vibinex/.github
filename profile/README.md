@@ -17,9 +17,15 @@ There are three key repositories of this product:
 2. [Server for backend and website (NextJS)](https://github.com/Alokit-Innovations/team-monitor-website)
 3. [Browser Extension](https://github.com/Alokit-Innovations/chrome-extension)
 
+![vibinex-architecture](https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d)
+
+
 ### Privacy-first
 We take privacy extremely seriously. The purpose of the Rust service is to keep the user's data (code, events, config, server logs, etc.) in the user's infrastructure.
 Only non-reproducible encrypted/hashed metadata is shared with Vibinex's servers. 
+
+This project follows a dual-backend architecture to ensure privacy while serving data-enabled features. Here is the architectural diagram (over-simplified for high-level understanding):
+![2-backend-architecture](https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3)
 
 ## Alokit Mentorship Platform
 This website ([alokit.in](https://alokit.in)) facilitates running temporary employment engagements (like internships, contract work, consultancy etc.). It acts as a trusted third party for 
