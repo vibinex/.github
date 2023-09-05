@@ -19,8 +19,8 @@ There are three key repositories of this product:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/4c8fd276-57d2-4b8c-906f-0974ab84ab64">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d.png">
-  <img alt="Vibinex core repo" src="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d">
+  <img alt="Vibinex core repo" src="https://github.com/Alokit-Innovations/.github/assets/7858932/6e04f0c7-02a8-400b-b513-a4c48e6f613d">
 </picture>
 
 ### Privacy-first
@@ -28,7 +28,11 @@ We take privacy extremely seriously. The purpose of the Rust service is to keep 
 Only non-reproducible encrypted/hashed metadata is shared with Vibinex's servers. 
 
 This project follows a dual-backend architecture to ensure privacy while serving data-enabled features. Here is the architectural diagram (over-simplified for high-level understanding):
-![2-backend-architecture](https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/ec5678f8-0d4d-4cf3-951c-0fcdccdc1982">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
+  <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/028ee2f8-aa3f-4223-ab40-a338983b64f3">
+</picture>
 
 ## Alokit Mentorship Platform
 This website ([alokit.in](https://alokit.in)) facilitates running temporary employment engagements (like internships, contract work, consultancy etc.). It acts as a trusted third party for 
