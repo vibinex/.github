@@ -35,6 +35,25 @@ This project follows a dual-backend architecture to ensure privacy while serving
   <img alt="2-backend architecture" src="https://github.com/Alokit-Innovations/.github/assets/7858932/d5a97883-64ef-498f-b97a-318b6675ac87">
 </picture>
 
+### Constraints
+1. Sensitive and private information can only be accessed by the user-side service and cannot be shared with any other part of application
+2. Only metadata or other processed output from the data (which cannot be used to reproduce any sensitive information) can be shared with the central server.
+3. Any data stored in the central server must be hashed (preferably) or encrypted (with the private key on user-side).
+4. Any changes in the schema of the data shared outside of the user-side service must go through a user-consent process.
+5. The user-side service must not be verey resource intensive (exact thresholds TBD).
+
+### Contribute
+This is an open source project and we encourage you to contribute to its improvement.
+Here are the different ways you can contribute:
+1. (Easy) Use Vibinex in your project/repository and share your feedback. You can find the instructions to get started on [the website](https://vibinex.com).
+You can share your feedback and comments in the discussion forum or in our Slack community.
+2. (Easy) Star our repositories.
+3. (Medium) Contribute automated tests
+4. (Medium) Contribute documentation (for new repository setup, local environment setup, using various features of the product or code documentation).
+5. (Hard) Suggest new features that fit the product philosophy
+6. (Hard) Solve open issues and create a pull request.
+
+
 ## Alokit Mentorship Platform
 This website ([alokit.in](https://alokit.in)) facilitates running temporary employment engagements (like internships, contract work, consultancy etc.). It acts as a trusted third party for 
 - Project management (with JIRA-like epics, stories and tasks)
@@ -46,4 +65,4 @@ This project is hosted on Firebase.
 2. Backend is a NodeJS (ExpressJS) server hosted on Firebase Functions
 3. Frontend is written in ReactJS and statically hosted using Firebase Hosting
 
-All the code is in a [single GitHub Repository](https://github.com/Alokit-Innovations/mentorship-platform), which is a single Firebase project organized in two folders (`functions` and `view` for the backend and the frontend respectively).
+All the code is in a [single GitHub Repository](https://github.com/Alokit-Innovations/mentorship-website), which is a single Firebase project organized in two folders (`functions` and `view` for the backend and the frontend respectively).
