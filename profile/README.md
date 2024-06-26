@@ -9,5 +9,5 @@
 [<kbd> <br> Get Started <br> </kbd>](https://vibinex.com/docs/setup/providerLogin)
 
 
-<sub>[Website](https://vibinex.com/) &nbsp; • &nbsp; [Documentation](https://vibinex.com/docs) &nbsp; • &nbsp; [GitHub](https://github.com/Alokit-Innovations/vibinex-server)</sub>
+<sub>[Website](https://vibinex.com/) &nbsp; • &nbsp; [Documentation](https://vibinex.com/docs) &nbsp; • &nbsp; [GitHub](https://github.com/vibinex/vibinex-server)</sub>
 
